@@ -1,7 +1,7 @@
 # release
 10 stars = release 
 
-25 stars = src
+50 stars = src
 
 # VanishNuker
 **Nuking made easy, A power discord Nuker**
@@ -11,3 +11,9 @@
 
 # Disclaimer
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS IS YOUR FAULT/PROBLEM**
+
+# intents
+**Make sure all intents are enabled,**
+
+![image](https://github.com/vanishgg/VanishNuker/assets/169748142/29e7ace1-3e7f-481c-bedd-c76c2a3d0cb1)
+
