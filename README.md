@@ -1,7 +1,7 @@
 # release
-10 stars = release 
+10 stars = release ✅
 
-50 stars = src
+50 stars = src ❌
 
 # VanishNuker
 **Nuking made easy, A power discord Nuker**
