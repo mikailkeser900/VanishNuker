@@ -14,4 +14,6 @@ enable intents
 invite the bot with admin perms.
 
 # step 4
+reset bot token and copy.
 Run vanish.exe or start.bat
+put your bot token when prompted
